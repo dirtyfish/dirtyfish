@@ -1,4 +1,6 @@
 ## Hi there 👋
+So because 1hit.no is gone for a while, i put up this new site on github. :) 
+
 https://dirtyfish.github.io
 
 <!--
