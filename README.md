@@ -1,4 +1,4 @@
-Move most of my activity to hugginface:
+I am mostly active on hugginface:
 https://huggingface.co/MySafeCode
 
 
